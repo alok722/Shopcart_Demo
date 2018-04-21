@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShopCart</string>
+    <string name="lorem">Lorem ipsum is simply dummy text of the printing and typesetting industry.Printer took a galley of type and scrambled it to make a type specimen book.Android floating labels were introduced in android design support library to display a floating label over EditText. Initially it acts as hint in EditText when the field is empty.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="women"><b>Women\'s Wear</b></string>
+    <string name="men_s_wear"><b>Men\'s Wear</b></string>
+    <string name="accesories"><b>Accessories</b></string>
+    <string name="track_order"><b>Track Order</b></string>
+    <string name="account_details"><b>Account Details</b></string>
+    <string name="settings"><b>Settings</b></string>
+    <string name="sign_out"><b>Sign Out</b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Western Wear</string>
+    <string name="tab_text_2">Ethnic Wear</string>
+    <string name="tab_text_3">Sarees</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="name"><b>Nike Flyknit Air Max</b></string>
+</resources>

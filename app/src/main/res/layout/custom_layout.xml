@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:id="@+id/icons"
+        android:layout_marginTop="20dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:contextClickable="false"
+        android:longClickable="false"
+        android:src="@drawable/p1"/>
+
+    <TextView
+        android:id="@+id/letters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button2"
+        android:clickable="false"
+        android:contextClickable="false"
+        android:longClickable="false"
+        android:layout_alignStart="@+id/icons"
+        android:layout_marginStart="11dp"
+        android:text="Alok"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignEnd="@+id/icons"
+        android:contextClickable="false"
+        android:clickable="false"
+        android:layout_below="@+id/icons"
+        android:background="@drawable/selector" />
+
+</RelativeLayout>
