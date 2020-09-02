@@ -18,7 +18,7 @@
 ## 🧾 Usage
 
 ```js
-git clone https://github.com/alok722/Shopcart_Demo.git
+git clone https://github.com/alok722/shopcart-demo.git
 open with `Android Studio`
 ```
 
@@ -33,7 +33,7 @@ open with `Android Studio`
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/alok722/Shopcart_Demo/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/alok722/shopcart-demo/issues). 
 
 ## 🙌 Show your support
 
